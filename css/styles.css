@@ -1,6 +1,7 @@
 @import "reset.css";
-@import "status-bar.css";
+@import "components/status-bar.css";
 @import "variable.css";
+@import "components/nav-bar.css";
 
 body {
   background-color: gainsboro;
